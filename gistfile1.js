@@ -1,25 +1,4 @@
-CURRENTLY RUNNING ON BETA VERSION!!
-*
-   * @project_name : Gifted-Md
-   * @author : Gifted Tech Info.
-   * @youtube : https://www.youtube.com/c/@giftedtechnexus
-   * @infoription : Gifted-Md ,A Multi-functional whatsapp user bot.
-   * @version 1.2.2 
-*
-   * Licensed under the  GPL-3.0 License;
-* 
-   * ┌┤Created By Gifted Tech.
-   * © 2024 Gifted-Md ✭ ⛥.
-   * plugin date : 14/2/2024
-* 
-   * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-   * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-   * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-   * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-   * SOFTWARE.
-**/
+
 
 
 let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Hii this is WASI MD Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by WASI CHATBOT\`\`\`" ;
